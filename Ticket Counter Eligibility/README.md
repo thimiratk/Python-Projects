@@ -4,7 +4,7 @@ A beginner-level Python project that simulates a ticket counter system for a rol
 
 ## ✅ Features
 
-- Accepts user input for height
+- Accepts user input for height.
 - Checks if the person meets the minimum height requirement
 - Provides eligibility feedback
 
